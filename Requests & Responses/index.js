@@ -1,1 +1,4 @@
-console.log("Hello World")
+function Name(name) {
+    console.log(`your name is ${name}`)
+}
+Name("Roneil");
