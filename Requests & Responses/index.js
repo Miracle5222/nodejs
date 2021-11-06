@@ -1,4 +1,4 @@
-function Name(name) {
-    console.log(`your name is ${name}`)
+function Name(fname,lname) {
+    console.log(`your fname is ${fname} and your lastname is ${lname}`)
 }
-Name("Roneil");
+Name("Roneil","Bansas");
